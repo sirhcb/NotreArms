@@ -8,6 +8,10 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Copyright © Your Name <script>if(window.location.href.includes('Series-I') || window.location.href.includes('Series-II')){ document.querySelector('footer').style.display='none'; }</script>",
+  "footer": "<ul><li>[<a href=\"Series-I.html#lg=1&slide=3\">Series I, image 4</a>]</li>
+  <li>[<a href=\"Series-I.html#lg=1&slide=13\">Series I, image 14</a>]</li>
+  <li>[<a href=\"Series-II.html#lg=1&slide=2\">Series II, image 3</a>]</li>   
+  </ul>
+  <script>if(window.location.href.includes('Series-I') || window.location.href.includes('Series-II')){ document.querySelector('footer').style.display='none'; }</script>",
   "usage-stats": false
 }
