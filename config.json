@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "<a href=\"assets/Links.html\">Index</a>",
+  "footer": "<a href=\"Links.html.jpg\">Index</a>",
   "usage-stats": false
 }
