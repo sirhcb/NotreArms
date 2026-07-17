@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "<a href="index.html#lg=1&slide=0">Open First Image in Slideshow</a>",
+  "footer": "<a href=\"index.html#lg=1&slide=0\">Open First Image in Slideshow</a>",
   "usage-stats": false
 }
