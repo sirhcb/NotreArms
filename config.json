@@ -8,7 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "<span style=\"font-size: 24px;\">B</span><br>
-  [<a href=\"Series-I.html#lg=1&slide=2\">boermac</a>]<br>[<a href=\"Series-I.html#lg=1&slide=2\">boermad</a>]<br><span style=\"font-size: 24px;\">C</span>[<a href=\"Series-I.html#lg=1&slide=0\">Coliop</a>]<script>if(window.location.href.includes('Series-I') || window.location.href.includes('Series-II')){ document.querySelector('footer').style.display='none'; }</script>",
+  "footer": "<span style=\"font-size: 36px;\"><b>= B =</B></span><br>[<a href=\"Series-I.html#lg=1&slide=2\">boermac</a>]<br>[<a href=\"Series-I.html#lg=1&slide=2\">boermad</a>]<br><span style=\"font-size: 24px;\">C</span>[<a href=\"Series-I.html#lg=1&slide=0\">Coliop</a>]<script>if(window.location.href.includes('Series-I') || window.location.href.includes('Series-II')){ document.querySelector('footer').style.display='none'; }</script>",
   "usage-stats": false
 }
