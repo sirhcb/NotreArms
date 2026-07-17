@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "<a href=\"Links.html.jpg\">Index</a>",
+  "footer": "Copyright © Your Name <script>if(window.location.href.includes('Series-I') || window.location.href.includes('Series-II')){ document.querySelector('footer').style.display='none'; }</script>",
   "usage-stats": false
 }
