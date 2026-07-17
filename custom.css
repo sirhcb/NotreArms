@@ -1,1 +1,13 @@
-/* Your custom styles goes here */
+/* Hide the footer on the Series-I subgallery page */
+body[id*="Series-I"] footer,
+body[id*="Series-I"] .footer,
+body[id*="Series-I"] #footer {
+    display: none !important;
+}
+
+/* Hide the footer on the Series-II subgallery page */
+body[id*="Series-II"] footer,
+body[id*="Series-II"] .footer,
+body[id*="Series-II"] #footer {
+    display: none !important;
+}/* Your custom styles goes here */
