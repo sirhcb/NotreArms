@@ -42,8 +42,8 @@
 <span style=\"font-size: 36px;\">= E =</span><br>
 [<a href=\"Series-I.html#lg=1&slide=9\">El-Presidente</a>]<br>
 [<a href=\"Series-I.html#lg=1&slide=5\">Elojia</a>]<br>
-[<a href=\"Series-I.html#lg=1&slide=12\">Elp</a>]<br>
 [<a href=\"Series-I.html#lg=1&slide=8\">Elojia (for a fictional character)</a>]<br>
+[<a href=\"Series-I.html#lg=1&slide=12\">Elp</a>]<br>
 [<a href=\"Series-I.html#lg=1&slide=5\">Ensix</a>]<br>
 [<a href=\"Series-I.html#lg=1&slide=1\">Eskimo Husky</a>]<br>
 <span style=\"font-size: 36px;\">= F =</span><br>
@@ -153,4 +153,4 @@ Thornwell's SO - see: Petalwell<br>
 [<a href=\"Series-I.html#lg=1&slide=4\">Zacharias (old)</a>]<br>
 [<a href=\"Series-I.html#lg=1&slide=9\">Zeal Seal</a>]<br>
 <span style=\"font-size: 36px;\">= # =</span><br>
-<script>if(window.location.href.includes('Series-I') || window.location.href.includes('Series-II')){ document.querySelector('footer').style.display='none'; }</script>",
+<script>if(window.location.href.includes('Series')){ document.querySelector('footer').style.display='none'; }</script>",
