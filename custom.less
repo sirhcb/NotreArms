@@ -1,8 +1,15 @@
-/* Hide the thumbnail container on initialization */
-.lg-outer .lg-thumb-outer {
-    display: none !important;
+/* Restrict the maximum size of the image container */
+.lg-object, .fancybox-image, .lightbox-image {
+    max-width: 70vw !important;  /* 70% of the screen width */
+    max-height: 70vh !important; /* 70% of the screen height */
+    width: auto !important;
+    height: auto !important;
+    margin: auto !important;
 }
-/* Adjust the main slide area to occupy the full screen height */
-.lg-outer.lg-has-thumb .lg-item {
-    padding-bottom: 0 !important;
+
+/* Center the image within the container if needed */
+.lg-item, .fancybox-slide, .lightbox-slide {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
 }
