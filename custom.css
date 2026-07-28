@@ -1,10 +1,10 @@
 /* Example for a standard thumbnail container */
 .thumbsup-gallery .thumbnail-wrapper {
-    height: 60px; /* Reduce from default (e.g., 100px) */
+    height: 20px; /* Reduce from default (e.g., 100px) */
 }
 
 .thumbsup-gallery .thumbnail-item {
-    width: 60px;  /* Match height for square thumbnails */
-    height: 60px;
+    width: 20px;  /* Match height for square thumbnails */
+    height: 20px;
     object-fit: cover; /* Prevents image distortion */
 }
