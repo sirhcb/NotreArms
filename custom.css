@@ -8,3 +8,6 @@
     height: 20px;
     object-fit: cover; /* Prevents image distortion */
 }
+.thumb, .thumbnails {
+  display: none !important;
+}
