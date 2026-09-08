@@ -7,5 +7,6 @@ images:
   - url: "/Series II/WallWindowsSmall5556.svg"
   - url: "/Series II/WallWindowsSmall5758.svg"
   - url: "/Series II/WallWindowsSmall5960.svg"
+  - url: "/Series II/WallWindowsSmall6162.svg"
   - url: "/Series II/WallWindowsSmall6566.svg"
 ---
