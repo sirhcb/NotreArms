@@ -1,6 +1,6 @@
 ---
 layout: slideshow
-title: "Series II Windows"
+title: "Series II<small> - Windows 51-100</small>"
 images:
   - url: "/Series II/WallWindowsSmall5152.svg"
   - url: "/Series II/WallWindowsSmall5354.svg"
