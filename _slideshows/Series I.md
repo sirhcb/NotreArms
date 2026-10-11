@@ -21,4 +21,5 @@ images:
   - url: "/Series I/WallWindowsSmall3334.svg"
   - url: "/Series I/WallWindowsSmall3536.svg"
   - url: "/Series I/WallWindowsSmall3738.svg"
+  - url: "/Series I/WallWindowsSmall3940.svg"
 ---
